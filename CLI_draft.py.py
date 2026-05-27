@@ -6,7 +6,7 @@ def get_connection():
         host="mysql-22b6c183-aucegypt-b490.l.aivencloud.com", 
         port=26672,
         user="avnadmin", 
-        password="AVNS_eBqgFyXUtR8aQK2RzCR", 
+        password="you password here ", 
         database="videogame_db"
     )
     return db
